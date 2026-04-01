@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "vfd controller",
+  "description_recipe": "vfd controller",
+  "history_source_dir": "EWVFDControl",
+  "internal_package_name": "enigma2-plugin-systemplugins-vfdcontrol",
+  "module_dir_name": "EWVFDControl",
+  "output_subdir": "EWVFDControl",
+  "package_name": "enigma2-plugin-systemplugins-vfdcontrol-e-w-v-f-d-control",
+  "plugin_src_rel": "EWVFDControl",
+  "python_package": "EWVFDControl",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "EWVFDControl",
+  "rrecommends": "",
+  "rreplaces": ""
+}
