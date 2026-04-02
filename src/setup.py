@@ -1,7 +1,7 @@
 from setuptools import setup
 import setup_translate
 
-pkg = 'SystemPlugins.EWVFDControl'
+pkg = 'SystemPlugins.VFDControl'
 setup(name='enigma2-plugin-systemplugins-vfdcontrol',
        version='3.0',
        description='vfd controller',
